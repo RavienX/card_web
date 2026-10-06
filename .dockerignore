@@ -1,0 +1,7 @@
+node_modules
+dist
+.git
+*.zip
+backend/__pycache__
+**/__pycache__
+.env
